@@ -1,0 +1,16 @@
+Extract/Overwrite both elementor and elementor-pro folders.
+
+For Pro templates to work you need to create and sign into a free elementor account first.
+
+Always install or update elementor pro and free from this package to work.
+
+Never Update Free Version from Wordpress Server.
+
+
+Regards 
+Fraz Shabbir 
+
+For any query or service 
+
+03342851998
+Whatsapp : https://wa.me/923342851998
